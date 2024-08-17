@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 yfinance
-matplotlib
+matplotlib == 3.9.2
 pandas_datareader
 tensorflow
