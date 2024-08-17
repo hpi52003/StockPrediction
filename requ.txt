@@ -1,3 +1,7 @@
-matplotlib == 3.9.2
 streamlit
+numpy
+pandas
 yfinance
+matplotlib
+pandas_datareader
+tensorflow
